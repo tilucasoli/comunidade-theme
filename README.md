@@ -1,4 +1,4 @@
-# comunidade-xp-dark-theme README
+# comunidade-dark-theme README
 
 ## Working with Markdown
 
