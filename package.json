@@ -1,0 +1,21 @@
+{
+  "name": "comunidade-xp-dark-theme",
+  "displayName": "Comunidade XP Dark Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Comunidade XP Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Comunidade XP Dark-color-theme.json"
+      }
+    ]
+  }
+}
